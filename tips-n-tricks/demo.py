@@ -4,7 +4,7 @@ from time import sleep
 lights = [
     ('Green', 10),
     ('Yellow', 3),
-    ('Red', 5)
+    ('Red', 4)
 
 ]
 
